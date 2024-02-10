@@ -1,0 +1,22 @@
+.container{
+    /* height: 40vw;
+    width: 20vw; */
+    /* background-color: brown; */
+}
+.container img{
+    position: absolute;
+    height: 60vw;
+    width: 70vw;
+}
+@media only screen and (max-width: 600px){
+.container img{
+    height: 140vw;
+    width: 100vw;
+}
+
+
+
+}
+    
+
+
